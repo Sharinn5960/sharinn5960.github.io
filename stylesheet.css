@@ -19,6 +19,7 @@ h2{
 }
 #eating{
   position: fixed;
+  top:10%;
   right:78%;
   width:11%;
 }
