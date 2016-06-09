@@ -13,5 +13,6 @@ h2{
 }
 #chicken{
   position: fixed;
+  top:10%;
   right:30% ;
 }
