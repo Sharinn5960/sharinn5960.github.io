@@ -20,8 +20,8 @@ h2{
 #eating{
   position: fixed;
   right:80%;
-  width:10%;
-  bottom:60%;
+  width:15%;
+  bottom:50%;
 }
 body{
   background:#E68EDA;
@@ -30,6 +30,6 @@ body{
   position: fixed;
   width:10%;
   right:78%;
-  bottom:40%;
+  bottom:45%;
 }
 
