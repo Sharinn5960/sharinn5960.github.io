@@ -19,7 +19,7 @@ h2{
 }
 #eating{
   position: fixed;
-  right:83%;
+  right:87%;
   width:8%;
   bottom:58%;
 }
@@ -28,8 +28,8 @@ body{
 }
 #travel{
   position: fixed;
-  width:10%;
-  right:78%;
+  width:8%;
+  right:85%;
   bottom:45%;
 }
 
