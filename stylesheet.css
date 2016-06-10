@@ -21,8 +21,15 @@ h2{
   position: fixed;
   right:78%;
   width:11%;
-  bottom:55%;
+  bottom:60%;
 }
 body{
   background:#E68EDA;
+}
+#travel{
+  position: fixed;
+  width:10%;
+  right:78%;
+  bottom:60%;
+}
 }
